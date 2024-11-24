@@ -23,7 +23,7 @@ index:
 
      
 ### 3. create application
-     django-main startapp core
+     django-admin startapp core
 INSTALLED_APPS = [
            
            ...
