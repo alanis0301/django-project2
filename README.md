@@ -19,7 +19,7 @@ index:
 
    
 ### 2. create project
-     django-admin stratproject django2 .
+     django-admin stratproject projectname .
 
      
 ### 3. create application
