@@ -1,6 +1,7 @@
 # django-project2
-2th django project using MySQL and bootstrap
+2th Django project using MySQL and bootstrap
 
+Check the requirements.txt file to see the versions used
 
 index:
 ![Captura de tela 2024-11-24 001043](https://github.com/user-attachments/assets/e66ba17b-2d87-4e3b-8dfe-faa29685d229)
@@ -84,7 +85,7 @@ urlpatterns = [
 ]
 
 
-### 7. install MYSql
+### 7. install MySQL
     pip install MySQL
     pip freeze > requirements.py
 
