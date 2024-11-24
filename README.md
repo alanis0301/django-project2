@@ -3,7 +3,7 @@
 
 
 Index
-![image](https://github.com/user-attachments/assets/6611ee99-d921-4fdd-bc85-0501de3366c6)
+![Captura de tela 2024-11-24 001043](https://github.com/user-attachments/assets/e66ba17b-2d87-4e3b-8dfe-faa29685d229)
 ![Captura de tela 2024-11-24 001153](https://github.com/user-attachments/assets/6a063304-71f1-4bc7-9684-fa52cafca46e)
 
 Produto:
